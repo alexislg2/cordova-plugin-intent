@@ -9,8 +9,8 @@
     <description>Cordova Plugin for Android to access intent</description>
     <license>MIT</license>
 
-    <repo>https://github.com/napolitano/cordova-plugin-intent</repo>
-    <issue>https://github.com/napolitano/cordova-plugin-intent/issues</issue>
+    <repo>https://github.com/alexislg2/cordova-plugin-intent</repo>
+    <issue>https://github.com/alexislg2/cordova-plugin-intent/issues</issue>
 
     <keywords>cordova,intent,share,send,android</keywords>
 
